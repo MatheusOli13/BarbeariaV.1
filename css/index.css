@@ -1,0 +1,22 @@
+#logo{
+	width: 70px;
+	height: 60px;
+}
+
+
+#contatos{
+	width: 350px;
+	height: 450px;
+	background-color: white;
+	margin-top: 20px;
+	border-radius: 20px;
+}
+
+#img-logo-contatos{   
+	width: 250px;
+	height: 200px;
+	border-radius: 10px;
+	
+	margin-left: 50px;
+}
+
